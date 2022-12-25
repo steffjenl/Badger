@@ -1,6 +1,6 @@
 {
-    "name": "cachethq/badger",
-    "description": "A Badge Generator For Laravel 5 and 6 and 7.",
+    "name": "steffjenl/badger",
+    "description": "A Badge Generator For Laravel 7.",
     "keywords": ["badger", "badge", "shield", "svg", "Badger", "Cachet", "CachetHQ"],
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/contracts": "^^7.0",
+        "illuminate/contracts": "^7.0",
         "illuminate/support": "^7.0"
     },
     "require-dev": {
